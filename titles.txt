@@ -1,0 +1,65 @@
+1- mafahime avalie barname nevisi (0.5 h)
+. variable
+.. var -> ES5
+.. let -> ES6
+..const -> ES6
+. function
+.. definition
+.. use
+.. arrow functions -> ES6
+. loop
+.. for
+.. for methods -> ES6
+.. while
+.. do while
+. condition
+.. if
+.. ternary expressions
+.. switch
+.. truthy & falsy values
+.. === vs. ==
+. debug
+. data structures
+.. primitives
+.. non-primitives
+
+2- mafahime avalie barname nevisi dar javascript (0.5 - 1 h)
+
+3- javascript ES5 (Ecma Script 5) (2 - 3 h)
+. try catch
+. Regex
+. new
+
+4- ES6 & ES7 (2 - 3 h)
+. Promise
+. async methods
+. rest
+. spread
+. destructure
+. template string
+. class
+. modules
+
+5- git (0.5 h)
+
+6- git-flow (0.5 h)
+
+7- React part 1 (8 - 10 h)
+
+8- React part 2 (4 - 6 h)
+
+9- Redux (3 - 4 h)
+
+--- (Learn: 2 weeks, Project: 2 weeks) ---
+
+10- TypeScript (4 - 5 h)
+
+11- SASS (2 - 3 h)
+
+--- (Learn: 1 weeks, Project: 2 weeks) ---
+
+12- TDD (Test Driven Development) (0.5 h)
+
+13- Design Patterns (0.5 h)
+
+--- (Learn: 2 weeks, Project: 2 weeks) ---
